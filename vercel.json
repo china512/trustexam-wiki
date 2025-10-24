@@ -1,15 +1,6 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "site/**/*",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/site/$1"
-    }
-  ]
+  "buildCommand": "npm run docs:build",
+  "outputDirectory": ".vitepress/dist",
+  "devCommand": "npm run docs:dev",
+  "installCommand": "npm install"
 }
