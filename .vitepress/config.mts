@@ -9,7 +9,7 @@ export default defineConfig({
     assetsInclude: [
       "**/*.jpg",
       "**/*.JPEG",
-      "**/*.jpg",
+      "**/*.JPG",
       "**/*.jpeg",
       "**/*png,",
       "**/*PNG,",
