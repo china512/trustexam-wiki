@@ -3,7 +3,7 @@
 Система для обеспечения честного тестирования с мониторингом в реальном времени.
 
 <p align="center">
-<img src="@images/trustexam-logo.jpg" alt="logo">
+<img src="/images/trustexam-logo.jpg" alt="logo">
 </p>
 
 ## Начало работы

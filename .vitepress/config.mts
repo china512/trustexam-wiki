@@ -6,16 +6,11 @@ export default defineConfig({
   lang: "ru-RU",
 
   vite: {
-    resolve: {
-      alias: {
-        "@images": process.cwd() + "/images",
-      },
-    },
     assetsInclude: ["**/*.jpg", "**/*.jpeg", "**/*.png", "**/*.gif"],
   },
 
   themeConfig: {
-    logo: "@images/trustexam-logo.png",
+    logo: "../images/trustexam-logo.png",
 
     nav: [
       { text: "Главная", link: "/" },
