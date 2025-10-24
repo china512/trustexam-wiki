@@ -2,7 +2,7 @@
   "name": "trustexam-wiki",
   "scripts": {
     "dev": "vitepress dev",
-    "build": "npx vitepress build",
+    "build": "vitepress build",
     "preview": "vitepress preview"
   },
   "devDependencies": {
