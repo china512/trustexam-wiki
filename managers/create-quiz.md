@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="/images/create-quiz.jpg" alt="Создание теста" />
+<img src="/images/create-quiz.JPG" alt="Создание теста" />
 </p>
 
 ## Шаг 2: Добавьте вопросы
@@ -39,4 +39,4 @@
 
 После создания теста на странице "База тестов и задач" появится новый тест:
 
-![Список тестов](/images/quiz-list.jpg)
+![Список тестов](/images/quiz-list.JPG)
