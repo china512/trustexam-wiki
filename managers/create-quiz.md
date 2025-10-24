@@ -6,11 +6,11 @@
 2. Введите название и описание теста
 
 <p align="center">
-<img src="/images/create-quiz-button.jpg" alt="Новый тест" />
+<img src="@images/create-quiz-button.jpg" alt="Новый тест" />
 </p>
 
 <p align="center">
-<img src="/images/create-quiz.jpg" alt="Создание теста" />
+<img src="@images/create-quiz.jpg" alt="Создание теста" />
 </p>
 
 ## Шаг 2: Добавьте вопросы
@@ -24,7 +24,7 @@
 
 ## Шаг 3: Настройте параметры
 
-![Тестовый вопрос](/images/created-question.jpg)
+![Тестовый вопрос](@images/created-question.jpg)
 
 Для каждого вопроса укажите:
 
@@ -35,8 +35,8 @@
 - Штрафные баллы за ошибку
 - Вариант вопроса
 
-![Параметры вопроса](/images/created-question-params.jpg)
+![Параметры вопроса](@images/created-question-params.jpg)
 
 После создания теста на странице "База тестов и задач" появится новый тест:
 
-![Список тестов](/images/quiz-list.jpg)
+![Список тестов](@images/quiz-list.jpg)

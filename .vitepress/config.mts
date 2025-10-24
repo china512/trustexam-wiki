@@ -6,14 +6,12 @@ export default defineConfig({
   lang: "ru-RU",
 
   vite: {
-    assetsInclude: [
-      "**/*.jpg",
-      "**/*.JPEG",
-      "**/*.JPG",
-      "**/*.jpeg",
-      "**/*png,",
-      "**/*PNG,",
-    ],
+    resolve: {
+      alias: {
+        "@images": process.cwd() + "/images",
+      },
+    },
+    assetsInclude: ["**/*.jpg", "**/*.jpeg", "**/*.png", "**/*.gif"],
   },
 
   themeConfig: {
