@@ -17,10 +17,8 @@ export default defineConfig({
   },
 
   themeConfig: {
-    // Логотип и навигация
-    logo: "/images/trustexam-logo.png", // добавьте логотип если нужно
+    logo: "../images/trustexam-logo.png",
 
-    // Навигационная панель (верхнее меню)
     nav: [
       { text: "Главная", link: "/" },
       { text: "Быстрый старт", link: "/getting-started" },
