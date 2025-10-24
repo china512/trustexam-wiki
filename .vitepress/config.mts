@@ -5,6 +5,17 @@ export default defineConfig({
   description: "Официальная документация прокторинговой системы TrustExam",
   lang: "ru-RU",
 
+  vite: {
+    assetsInclude: [
+      "**/*.JPG",
+      "**/*.JPEG",
+      "**/*.jpg",
+      "**/*.jpeg",
+      "**/*png,",
+      "**/*PNG,",
+    ],
+  },
+
   themeConfig: {
     // Логотип и навигация
     logo: "/images/trustexam-logo.png", // добавьте логотип если нужно
