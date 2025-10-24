@@ -15,7 +15,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: "../images/trustexam-logo.png",
+    logo: "@images/trustexam-logo.png",
 
     nav: [
       { text: "Главная", link: "/" },
