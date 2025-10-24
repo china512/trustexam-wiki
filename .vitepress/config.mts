@@ -7,9 +7,9 @@ export default defineConfig({
 
   vite: {
     assetsInclude: [
-      "**/*..jpg",
+      "**/*.jpg",
       "**/*.JPEG",
-      "**/*..jpg",
+      "**/*.jpg",
       "**/*.jpeg",
       "**/*png,",
       "**/*PNG,",
