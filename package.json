@@ -7,6 +7,7 @@
   },
   "devDependencies": {
     "@types/node": "^24.9.1",
-    "vitepress": "^1.0.0"
+    "vitepress": "^1.0.0",
+    "vitepress-plugin-lightbox": "^1.0.3"
   }
 }

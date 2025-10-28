@@ -1320,7 +1320,7 @@ var require_speakingurl = __commonJS2({
         "ⓨ": "y",
         "ⓩ": "z",
         // symbols
-        "“": '"',
+        """: '"',
         "”": '"',
         "‘": "'",
         "’": "'",

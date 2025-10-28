@@ -1,5 +1,7 @@
 import { defineConfig } from "vitepress";
 
+import lightbox from "vitepress-plugin-lightbox";
+
 export default defineConfig({
   title: " ",
   description: "Официальная документация прокторинговой системы TrustExam",
@@ -31,6 +33,13 @@ export default defineConfig({
         {
           text: "Для студентов",
           items: [{ text: "Введение", link: "/students/" }],
+        },
+        {
+          text: "Инструкции",
+          items: [
+            { text: "Веб-браузер", link: "/students/browser-guide" },
+            { text: "Клиентское приложение", link: "/students/desktop-guide" },
+          ],
         },
       ],
 
@@ -108,6 +117,9 @@ export default defineConfig({
   // Markdown настройки
   markdown: {
     lineNumbers: true,
+    config: (md) => {
+      md.use(lightbox, {});
+    },
   },
 
   // Последнее обновление
