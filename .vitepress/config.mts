@@ -10,7 +10,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: "../images/trustexam-logo.png",
+    logo: "/logo.svg",
 
     nav: [
       { text: "Главная", link: "/" },
@@ -18,43 +18,37 @@ export default defineConfig({
       {
         text: "Руководства",
         items: [
-          { text: "Для Студентов", link: "/students/" },
-          { text: "Для Менеджеров/Учителей", link: "/managers/" },
+          { text: "Для студентов", link: "/students/" },
+          { text: "Для менеджеров/Учителей", link: "/managers/" },
           { text: "Для администраторов", link: "/admin/" },
         ],
       },
       { text: "Частые вопросы", link: "/faq" },
     ],
 
-    // Боковая панель (sidebar)
     sidebar: {
-      // Сайдбар для студентов
       "/students/": [
         {
-          text: "Для Студентов",
-          items: [
-            { text: "Введение", link: "/students/" },
-            // добавьте другие страницы студентов
-          ],
+          text: "Для студентов",
+          items: [{ text: "Введение", link: "/students/" }],
         },
       ],
 
-      // Сайдбар для менеджеров - ОСНОВНОЙ
       "/managers/": [
         {
-          text: "Для Менеджеров/Учителей",
+          text: "Для менеджеров/учителей",
           items: [{ text: "Введение", link: "/managers/" }],
         },
         {
-          text: "Управление Контентом",
-          collapsed: false, // развернуто по умолчанию
+          text: "Управление контентом",
+          collapsed: false,
           items: [
             { text: "Создание Теста (Quiz)", link: "/managers/create-quiz" },
             { text: "Управление Группами", link: "/managers/manage-classes" },
           ],
         },
         {
-          text: "Создание Экзамена (Assignments)",
+          text: "Создание экзамена (Assignments)",
           collapsed: false,
           items: [
             {
@@ -69,7 +63,6 @@ export default defineConfig({
         },
       ],
 
-      // Сайдбар для администраторов
       "/admin/": [
         {
           text: "Для администраторов",
@@ -81,12 +74,10 @@ export default defineConfig({
       ],
     },
 
-    // Поиск
     search: {
       provider: "local",
     },
 
-    // Хлебные крошки
     outline: {
       level: [2, 3],
       label: "На этой странице",

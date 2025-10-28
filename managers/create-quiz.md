@@ -5,12 +5,12 @@
 1. В левой боковой панели перейдите в "Тесты" → "Новый тест"
 2. Введите название и описание теста
 
-<p align="center">
-<img src="/create-quiz-button.jpg" alt="Новый тест" />
+<p align="center" style=" ">
+    <img src="/create-quiz-button.png" style="max-width: 100%; height: auto; border: 0.5px solid lightgray; border-radius: 6px; overflow: hidden;">
 </p>
 
-<p align="center">
-<img src="/create-quiz.jpg" alt="Создание теста" />
+<p align="center" style=" ">
+    <img src="/create-quiz.png" style="max-width: 100%; height: auto; border: 0.5px solid lightgray; border-radius: 6px; overflow: hidden;">
 </p>
 
 ## Шаг 2: Добавьте вопросы
@@ -24,7 +24,9 @@
 
 ## Шаг 3: Настройте параметры
 
-![Тестовый вопрос](/created-question.jpg)
+<p align="center" style=" ">
+    <img src="/created-question.png" style="max-width: 100%; height: auto; overflow: hidden;">
+</p>
 
 Для каждого вопроса укажите:
 

@@ -10,7 +10,9 @@
 
 **Логин и пароль**
 
-!['Логин'](/login-modal.jpg)
+<p align="center" style="border: 0.5px solid lightgray; overflow: hidden; border-radius: 12px;">
+    <img src="/login-modal.png" alt="Логин" style="max-width: 100%; height: auto;">
+</p>
 
 - Введите email и пароль, которые вы получили при регистрации
 - Нажмите "Войти"
@@ -19,7 +21,9 @@
 
 **Электронная цифровая подпись (ЭЦП)**
 
-!['ЭЦП'](/ncalayer-modal.jpg)
+<p align="center" style="border: 0.5px solid lightgray; overflow: hidden; border-radius: 12px;">
+    <img src="/ncalayer-modal.png" alt="ЭЦП" style="max-width: 100%; height: auto;">
+</p>
 
 - Выберите способ входа через ЭЦП
 - Подпишите запрос вашей электронной подписью
@@ -28,7 +32,9 @@
 
 **Приложение**
 
-!['Приложение'](/app-login.jpg)
+<p align="center" style="border: 0.5px solid lightgray; overflow: hidden; border-radius: 12px;">
+    <img src="/app-login.png" alt="Приложение" style="max-width: 100%; height: auto;">
+</p>
 
 - Выберите отдельную организацию для авторизации
 
@@ -36,7 +42,9 @@
 
 ### Регистрация
 
-!['Регистрация'](/register-modal.jpg)
+<p align="center" style="border: 0.5px solid lightgray; overflow: hidden; border-radius: 12px;">
+    <img src="/register-modal.png" alt="Регистрация" style="max-width: 100%; height: auto;">
+</p>
 
 Если у вас еще нет аккаунта:
 
@@ -47,7 +55,7 @@
 
 ## 2. Главный экран
 
-![Home](/home-page.jpg)
+![Home](/home-page.png)
 
 После успешного входа вы попадете на главный экран, где можете:
 
