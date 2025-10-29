@@ -1,24 +1,24 @@
 # Инструкция по тестированию в клиентском приложении
 
-![policy-agreement.png](/policy-agreement.png)
+![policy-agreement.png](/students/desktop-guide/policy-agreement.png)
 
 ### Установка клиентского приложения
 
 **После принятия соглашения у Вас отобразится уведомление об ограниченном доступе.** Это означает, что в настройках тестирования "Тип приложения" указан Desktop App. Система предлагает установить наше приложение. Установите его, выбрав соответствующий установщик из списка для вашей операционной системы.
 
-![download-app-button.png](/download-app-button.png)
+![download-app-button.png](/students/desktop-guide/download-app-button.png)
 
 После успешной установки откроется ссылка для запуска приложения. Запустите приложение, нажав «Открыть в приложении».
 
-![open-oqylyq.png](/open-oqylyq.png)
+![open-oqylyq.png](/students/desktop-guide/open-oqylyq.png)
 
-![app-policy.png](/app-policy.png)
+![app-policy.png](/students/desktop-guide/app-policy.png)
 
 Далее откроется клиентское приложение Oqylyq, в котором Вам снова необходимо принять соглашение. Нажмите кнопку "Принять соглашение" и далее начнется этап проверки оборудования.
 
 ### Проверка оборудования
 
-![app-software-check.png](/app-software-check.png)
+![app-software-check.png](/students/desktop-guide/app-software-check.png)
 
 На этапе проверки оборудования принимайте все необходимые разрешения - на камеру и на микрофон.
 
@@ -27,11 +27,11 @@
 
 ### Идентификация личности
 
-![face-app.png](/face-app.png)
+![face-app.png](/students/desktop-guide/face-app.png)
 
 Необходимо нажать кнопку "Сделать фото". В случае ошибки распознавания лица необходимо поместить лицо по центру с хорошим освещением и без теней. Далее у вас отобразится следующий этап проверки "Front camera (Фронтальная камера)".
 
-![second-cam-app.png](/second-cam-app.png)
+![second-cam-app.png](/students/desktop-guide/second-cam-app.png)
 
 Нажмите кнопку «Открыть доступ к камере». Далее у вас отобразится следующий этап проверки "Внешняя камера (камера телефона)".
 
@@ -39,24 +39,24 @@
 
 > Важно: Дополнительная камера обеспечивает боковой обзор во время тестирования и повышает безопасность экзамена. Работает в режиме обычной видеозаписи — она не использует системы анализа или отслеживания, а просто фиксирует обстановку вокруг вас во время тестирования.
 
-![second-cam-app-2.png](/second-cam-app-2.png)
+![second-cam-app-2.png](/students/desktop-guide/second-cam-app-2.png)
 
 Установите телефон так, чтобы его камера показывала ваше рабочее место и вас и нажмите кнопку "Готово".
 
-![screen-share-app.png](/screen-share-app.png)
+![screen-share-app.png](/students/desktop-guide/screen-share-app.png)
 
 ### Начало тестирования
 
 В случае успешной проверки у Вас отобразится короткая информация о тестировании (название, описание и кол-во времени). Необходимо нажать кнопку "Начать" или "Продолжить". Далее отобразятся вопросы теста. Необходимо выполнить задания теста, можно перемещаться внутри теста по заданиям (следующее, предыдущее), пропускать или возвращаться к предыдущим.
 
-![app-test.png](/app-test.png)
+![app-test.png](/students/desktop-guide/app-test.png)
 
-![app-test-finish.png](/app-test-finish.png)
+![app-test-finish.png](/students/desktop-guide/app-test-finish.png)
 
 ### Завершение тестирования
 
 После выполнения всех задании необходимо нажать кнопку "Завершить". После этого Вы увидите результаты тестирования.
 
-![app-test-results.png](/app-test-results.png)
+![app-test-results.png](/students/desktop-guide/app-test-results.png)
 
 По умолчанию на задание дается 3 попытки. Если вы хотите пройти его ещё раз, достаточно открыть задание заново и начать новую попытку.

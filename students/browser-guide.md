@@ -1,6 +1,8 @@
 # Инструкция по тестированию в браузере
 
-![policy-agreement.png](/policy-agreement.png)
+![policy-agreement.png](/students/browser-guide/policy-agreement.png)
+
+### Проверка оборудования
 
 **После принятия соглашения начнется инициализация системы прокторинга.** Этот процесс включает:
 
@@ -14,15 +16,15 @@
 > Если у вас подключены вспомогательные технологии (например, удалённый доступ, виртуальные камеры) или дополнительные мониторы - пожалуйста, отключите их и повторите попытку.
 Это необходимо для корректной работы системы и соблюдения правил прохождения теста.
 
-![check-equipment.png](/check-equipment.png)
+![check-equipment.png](/students/browser-guide/check-equipment.png)
 
 ### Идентификация личности
 
-![proctoring-ident.png](/proctoring-ident.png)
+![proctoring-ident.png](/students/browser-guide/proctoring-ident.png)
 
 Необходимо нажать кнопку "Сделать фото". В случае ошибки распознавания лица необходимо поместить лицо по центру с хорошим освещением и без теней. Далее у вас отобразится следующий этап проверки "Front camera (Фронтальная камера)".
 
-![face-identification.png](/face-identification.png)
+![face-identification.png](/students/browser-guide/face-identification.png)
 
 Нажмите кнопку "Открыть доступ к камере». Далее у вас отобразится следующий этап проверки "Внешняя камера (камера телефона)".
 
@@ -32,9 +34,9 @@
 
 > Важно: Дополнительная камера обеспечивает боковой обзор во время тестирования и повышает безопасность экзамена. Работает в режиме обычной видеозаписи — она не использует системы анализа или отслеживания, а просто фиксирует обстановку вокруг вас во время тестирования.
 
-![second-camera.png](/second-camera.png)
+![second-camera.png](/students/browser-guide/second-camera.png)
 
-![second-camera-qr.png](/second-camera-qr.png)
+![second-camera-qr.png](/students/browser-guide/second-camera-qr.png)
 
 Далее у вас отобразится следующий этап проверки "Desktop (рабочий стол)".
 
@@ -44,22 +46,28 @@
 
 > Mac:
 
-![screen-share-mac.png](/screen-share-mac.png)
+![screen-share-mac.png](/students/browser-guide/screen-share-mac.png)
 
 > Windows:
 
-![screen-share-win.png](/screen-share-win.png)
+![screen-share-win.png](/students/browser-guide/screen-share-win.png)
 
 Необходимо нажать кнопку «Открыть доступ Весь экран». Далее в всплывающем окне нажимаем на экран Весь экран (Разрешить делиться весь экран), затем кнопку «Поделиться». В случае успешного прохождения у вас начнется тест.
 
-![started-test-1.png](/started-test-1.png)
+### Начало тестирования
+
+![started-test-1.png](/students/browser-guide/started-test-1.png)
 
 Необходимо нажать кнопку "Начать" либо "Продолжить". Далее отобразятся вопросы теста. Необходимо выполнить задания теста, можно перемещаться внутри теста по заданиям (следующее, предыдущее), пропускать или возвращаться к предыдущим.
 
-![started-test-2.png](/started-test-2.png)
+![started-test-2.png](/students/browser-guide/started-test-2.png)
 
-![finish-test-1.png](/finish-test-1.png)
+### Завершение тестирования
 
-После выполнения всех задании необходимо нажать кнопку Завершить.
+![finish-test-1.png](/students/browser-guide/finish-test-1.png)
 
-![finish-test-2.png](/finish-test-2.png)
+После выполнения всех задании необходимо нажать кнопку "Завершить". После этого Вы увидите результаты тестирования.
+
+![finish-test-2.png](/students/browser-guide/finish-test-2.png)
+
+По умолчанию на задание дается 3 попытки. Если вы хотите пройти его ещё раз, достаточно открыть задание заново и начать новую попытку.
